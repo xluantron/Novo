@@ -6,4 +6,6 @@ para atualizar se usa $ git add .
 apos adicionar e preciso fazer o commit da versao com comentario usando
 git commit -m "especificando coisas"
 para fazer upload para o site se usa
-git push origin main
+$ git push origin main
+para puxar arquivos da nuvem alterados usamos
+$ git pull origin main
