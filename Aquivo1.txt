@@ -1,3 +1,9 @@
 testando git
 dentro do repositorio comando $ clone {endereço}
 copia dados do git e salva na pasta do dir
+apos criar um arquivo e digitar $ git status, apresenta um arquivo não atualizado no repositorio local
+para atualizar se usa $ git add . 
+apos adicionar e preciso fazer o commit da versao com comentario usando
+git commit -m "especificando coisas"
+para fazer upload para o site se usa
+git push origin main
