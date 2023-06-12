@@ -1,0 +1,3 @@
+testando git
+dentro do repositorio comando $ clone {endereço}
+copia dados do git e salva na pasta do dir

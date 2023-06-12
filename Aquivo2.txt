@@ -1,0 +1,2 @@
+git clone // copia tudo do link especificado
+git status // apresenta mudanças no projeto
